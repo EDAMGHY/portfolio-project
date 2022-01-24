@@ -28,7 +28,7 @@ const About = () => {
           <p>
             I am a Fullstack Web developer and Computer Science Student with a
             passion for Design and Innovation. I build accessible and responsive
-            sites. I work with ReactJS and Django to accomplish this. I am
+            sites. I work with ReactJS and NodeJS to accomplish this. I am
             currently aiming towards improving my full stack Javascript skills.
             I am a very curious person always willing to learn.
           </p>
