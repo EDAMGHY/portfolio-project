@@ -19,7 +19,7 @@ const UpButton = () => {
   };
   return (
     <a
-      href='#header'
+      href='#navbar'
       className={`scroll-up ${scrollUp && 'showBtn'}  ${
         animateUp && 'onClick'
       }   `}

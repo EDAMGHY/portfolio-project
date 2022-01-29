@@ -4,6 +4,7 @@ import Contact from './components/Contact';
 import Projects from './components/Projects';
 import About from './components/About';
 import Footer from './components/Footer';
+import Skills from './components/Skills';
 import UpButton from './components/UpButton';
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Navbar />
       <Header />
       <About />
+      <Skills />
       <Projects />
       <Contact />
       <Footer />
